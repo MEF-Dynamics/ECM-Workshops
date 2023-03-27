@@ -23,7 +23,7 @@ We will review your changes and merge them if they meet our standards.
 
 ## Contact
 
-If you have any questions or concerns about this repository, please contact us at [dynamics@clubs.mef.edu.tr].
+If you have any questions or concerns about this repository, please contact us at dynamics@clubs.mef.edu.tr.
 
 Thank you for your interest in our workshops!
 
@@ -31,8 +31,8 @@ Thank you for your interest in our workshops!
 
 ### Contributing Guidelines
 
-Please see the CONTRIBUTING.md file for more information on how to contribute to this project.
+Please see the [contributing](./CONTRIBUTING.md) file for more information on how to contribute to this project.
 
 ### License
 
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [license](./LICENSE).
