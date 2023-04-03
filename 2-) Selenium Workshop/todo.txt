@@ -1,4 +1,0 @@
-fast10fingers
-dataextract
-oop integration
-time exclusives
