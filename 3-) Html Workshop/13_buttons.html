@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <!--
+        <a href="https://www.google.com" target="_blank">
+        <button style="background-color: black;color: yellowgreen;border-radius: 5px;">
+            Lets google
+        </button>
+    </a>
+
+    <br>
+    -->
+
+    <button onclick="methodIsmi()" style="background-color: black;color: yellowgreen;border-radius: 5px;">
+        Lets google
+    </button>
+
+    <p id="bjsdhbsd">
+        Merhaba Zoomcular
+    </p>
+
+    <script>
+        function methodIsmi(){
+            let current_string = document.getElementById("bjsdhbsd").textContent;
+            if (current_string == "Merhaba Zoomcular"){
+                document.getElementById("bjsdhbsd").textContent = "Merhaba Youtubecviler";
+            }else{
+                document.getElementById("bjsdhbsd").textContent = "Merhaba Zoomcular";
+            }
+        }
+    </script>
+
+</body>
+</html>
