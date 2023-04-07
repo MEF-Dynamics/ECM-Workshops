@@ -8,6 +8,7 @@ The repository is organized into folders based on the different workshop topics 
 
 - [PyAutoGUI Workshop](./PyAutoGUI%20Workshop/)
 - [Selenium Workshop](./Selenium%20Workshop/)
+- [Html Workshop](./HTML%20Workshop/)
 
 Each folder contains the relevant files for that workshop, including code samples, documentation, and presentation materials.
 
